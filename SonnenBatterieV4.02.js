@@ -58,8 +58,8 @@ werden die Betriebsdaten wieder im Farbmodus angezeigt.
 // Parameter  Input here===================================
 // Hier bitte die Parameter hier eingeben
 
-const IP = "999.999.999.99";
-const Token = "xxxxxxx-xxxxx-xxxx-xxxx-xxxxxxxxxxxx";
+const IP = "192.168.178.106";
+const Token = "d932e5b0-533e-4f68-abc8-2d1989be43b9";
 const BatteryNumber = '1'; // it's the Battery Number for Multidevice-Installation
 const defaultFontSize = 10; // default Font Size for Output
 const fileManagerMode = 'ICLOUD'; // default is ICLOUD. If you don't use iCloud Drive use option LOCAL
